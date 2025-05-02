@@ -1,0 +1,4 @@
+Simple 2D physics, provided by ChatGPT.
+To the extent permitted by law, and to the extent permitted by
+the terms of use of chatgpt, you can use, study, modify, redistribute,
+and relicense this library to any fsf/osi approved license.
